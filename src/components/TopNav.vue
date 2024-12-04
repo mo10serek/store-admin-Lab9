@@ -117,7 +117,7 @@ nav img {
     top: 100%;
     left: 0;
     right: 0;
-    background-color: #1bff26;
+    background-color: #cc0303;
     padding: 1rem;
   }
 
